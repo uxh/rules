@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,nnss.ooo
+  - DOMAIN,cdnjs.cloudflare.com
+  - DOMAIN,cdn.sstatic.net
+  - DOMAIN,ci.apache.org
+  - DOMAIN,kafka.apache.org
+  - DOMAIN,maxcdn.bootstrapcdn.com
+  - DOMAIN,www.recaptcha.net
