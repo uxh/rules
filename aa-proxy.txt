@@ -1,6 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,kuaichedao.co
   - DOMAIN-SUFFIX,nnss.ooo
   - DOMAIN,cdnjs.cloudflare.com
   - DOMAIN,cdn.sstatic.net
