@@ -7,6 +7,7 @@ payload:
   - DOMAIN,cdnjs.cloudflare.com
   - DOMAIN,cdn.sstatic.net
   - DOMAIN,ci.apache.org
+  - DOMAIN,install.appcenter.ms
   - DOMAIN,kafka.apache.org
   - DOMAIN,maxcdn.bootstrapcdn.com
   - DOMAIN,www.recaptcha.net
