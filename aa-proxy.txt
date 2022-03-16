@@ -1,11 +1,9 @@
 payload:
+  - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,kuaichedao.co
   - DOMAIN-SUFFIX,nnss.ooo
   - DOMAIN,cdn.sstatic.net
-  - DOMAIN,ci.apache.org
-  - DOMAIN,kafka.apache.org
-  - DOMAIN,pulsar.apache.org
   - DOMAIN,www.recaptcha.net
