@@ -6,4 +6,6 @@ payload:
   - DOMAIN-SUFFIX,kuaichedao.co
   - DOMAIN-SUFFIX,nnss.ooo
   - DOMAIN,cdn.sstatic.net
+  - DOMAIN,download.panic.com
+  - DOMAIN,download-keycdn.panic.com
   - DOMAIN,www.recaptcha.net
