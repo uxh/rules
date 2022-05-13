@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,idc.wiki
   - DOMAIN-SUFFIX,kuaichedao.co
   - DOMAIN-SUFFIX,nnss.ooo
   - DOMAIN-SUFFIX,identity.oraclecloud.com
