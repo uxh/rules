@@ -7,7 +7,9 @@ payload:
   - DOMAIN-SUFFIX,kuaichedao.co
   - DOMAIN-SUFFIX,nnss.ooo
   - DOMAIN-SUFFIX,identity.oraclecloud.com
+  - DOMAIN-SUFFIX,v2rayn.net
   - DOMAIN,cdn.sstatic.net
   - DOMAIN,download.panic.com
   - DOMAIN,download-keycdn.panic.com
   - DOMAIN,www.recaptcha.net
+  - DOMAIN,cdn.jsdelivr.net
