@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,cdn.sstatic.net
+  - DOMAIN,download-keycdn.panic.com
+  - DOMAIN,download.panic.com
+  - DOMAIN,www.recaptcha.net
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,everhelper.me
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,idc.wiki
+  - DOMAIN-SUFFIX,identity.oraclecloud.com
+  - DOMAIN-SUFFIX,kuaichedao.co
+  - DOMAIN-SUFFIX,nnss.ooo
+  - DOMAIN-SUFFIX,v2rayn.net
