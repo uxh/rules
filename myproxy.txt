@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,idc.wiki
   - DOMAIN-SUFFIX,identity.oraclecloud.com
   - DOMAIN-SUFFIX,kuaichedao.co
+  - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,nnss.ooo
   - DOMAIN-SUFFIX,openstack.org
   - DOMAIN-SUFFIX,v2rayn.net
