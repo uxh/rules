@@ -15,4 +15,5 @@ payload:
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,nnss.ooo
   - DOMAIN-SUFFIX,openstack.org
+  - DOMAIN-SUFFIX,shields.io
   - DOMAIN-SUFFIX,v2rayn.net
