@@ -5,6 +5,7 @@ payload:
   - DOMAIN,download.panic.com
   - DOMAIN,www.recaptcha.net
   - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,everhelper.me
   - DOMAIN-SUFFIX,gstatic.com
