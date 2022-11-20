@@ -1,20 +1,19 @@
 payload:
+  # 静态资源
+  - DOMAIN,stackpath.bootstrapcdn.com
+  - DOMAIN,www.recaptcha.net
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.sstatic.net
+  - DOMAIN-SUFFIX,gstatic.com
+  # 开源项目
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,openstack.org
+  # 其他
   - DOMAIN,download-keycdn.panic.com
   - DOMAIN,download.panic.com
-  - DOMAIN,www.recaptcha.net
-  - DOMAIN-SUFFIX,apache.org
-  - DOMAIN-SUFFIX,bootstrapcdn.com
-  - DOMAIN-SUFFIX,elastic.co
-  - DOMAIN-SUFFIX,everhelper.me
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,hostloc.com
-  - DOMAIN-SUFFIX,idc.wiki
-  - DOMAIN-SUFFIX,identity.oraclecloud.com
-  - DOMAIN-SUFFIX,kuaichedao.co
+  - DOMAIN,www.hostloc.com
+  - DOMAIN,hostloc.com
+  - DOMAIN,idc.wiki
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,loli.net
-  - DOMAIN-SUFFIX,nnss.ooo
-  - DOMAIN-SUFFIX,openstack.org
-  - DOMAIN-SUFFIX,shields.io
-  - DOMAIN-SUFFIX,v2rayn.net
