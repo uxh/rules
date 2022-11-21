@@ -12,6 +12,7 @@ payload:
   # 其他
   - DOMAIN,download-keycdn.panic.com
   - DOMAIN,download.panic.com
+  - DOMAIN,download.dbeaver.com
   - DOMAIN,www.hostloc.com
   - DOMAIN,hostloc.com
   - DOMAIN,idc.wiki
