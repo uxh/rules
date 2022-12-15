@@ -13,8 +13,9 @@ payload:
   - DOMAIN,download-keycdn.panic.com
   - DOMAIN,download.panic.com
   - DOMAIN,download.dbeaver.com
-  - DOMAIN,www.hostloc.com
   - DOMAIN,hostloc.com
+  - DOMAIN,www.hostloc.com
   - DOMAIN,idc.wiki
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,loli.net
+  - DOMAIN,www.turnkeylinux.org
