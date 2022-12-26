@@ -19,3 +19,4 @@ payload:
   - DOMAIN,www.turnkeylinux.org
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,loli.net
+  - DOMAIN-SUFFIX,deepl.com
