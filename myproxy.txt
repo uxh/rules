@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,openstack.org
+  # 钱包
+  - PROCESS-NAME,com.tronlinkpro.wallet
   # 其他
   - DOMAIN,download-keycdn.panic.com
   - DOMAIN,download.panic.com
