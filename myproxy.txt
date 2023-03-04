@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,wmyun.men
