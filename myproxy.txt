@@ -3,7 +3,7 @@ payload:
   # DOMAIN,download-keycdn.panic.com
   # DOMAIN,download.panic.com
   # DOMAIN,download.dbeaver.com
-  # DOMAIN,stackpath.bootstrapcdn.com
+  DOMAIN,stackpath.bootstrapcdn.com
   # DOMAIN,www.recaptcha.net
   # DOMAIN,www.turnkeylinux.org
   # DOMAIN,cdn.jsdelivr.net
@@ -15,10 +15,7 @@ payload:
   # DOMAIN-SUFFIX,gstatic.com
   # DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,openstack.org
-  # 匹配程序
-  - PROCESS-NAME,com.tronlinkpro.wallet
   # 临时
   # DOMAIN,idc.wiki
   - DOMAIN-SUFFIX,hostloc.com
   # DOMAIN-SUFFIX,deepl.com
-  - DOMAIN-SUFFIX,wmyun.men
