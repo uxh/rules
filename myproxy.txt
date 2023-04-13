@@ -1,21 +1,21 @@
 payload:
   # 匹配域名
-  # DOMAIN,download-keycdn.panic.com
-  # DOMAIN,download.panic.com
-  # DOMAIN,download.dbeaver.com
-  DOMAIN,stackpath.bootstrapcdn.com
-  # DOMAIN,www.recaptcha.net
-  # DOMAIN,www.turnkeylinux.org
-  # DOMAIN,cdn.jsdelivr.net
-  # DOMAIN,cdn.sstatic.net
+  # - DOMAIN,download-keycdn.panic.com
+  # - DOMAIN,download.panic.com
+  # - DOMAIN,download.dbeaver.com
+  - DOMAIN,stackpath.bootstrapcdn.com
+  # - DOMAIN,www.recaptcha.net
+  # - DOMAIN,www.turnkeylinux.org
+  - DOMAIN,cdn.jsdelivr.net
+  # - DOMAIN,cdn.sstatic.net
   # 匹配域名后缀
-  # DOMAIN-SUFFIX,apache.org
-  # DOMAIN-SUFFIX,cloudflare.com
-  # DOMAIN-SUFFIX,elastic.co
-  # DOMAIN-SUFFIX,gstatic.com
-  # DOMAIN-SUFFIX,loli.net
+  # - DOMAIN-SUFFIX,apache.org
+  # - DOMAIN-SUFFIX,cloudflare.com
+  # - DOMAIN-SUFFIX,elastic.co
+  # - DOMAIN-SUFFIX,gstatic.com
+  # - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,openstack.org
   # 临时
-  # DOMAIN,idc.wiki
+  # - DOMAIN,idc.wiki
   - DOMAIN-SUFFIX,hostloc.com
-  # DOMAIN-SUFFIX,deepl.com
+  # - DOMAIN-SUFFIX,deepl.com
