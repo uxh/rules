@@ -1,4 +1,5 @@
-#!name=direct_list
+#!name=DIRECT_LIST
+
 [Rule]
 DOMAIN-SUFFIX,bandwagonhost.com,DIRECT
 DOMAIN-SUFFIX,bwh1.net,DIRECT
