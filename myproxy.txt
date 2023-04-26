@@ -1,22 +1,28 @@
 payload:
-  # 匹配域名
-  # - DOMAIN,download-keycdn.panic.com
-  # - DOMAIN,download.panic.com
-  # - DOMAIN,download.dbeaver.com
-  - DOMAIN,stackpath.bootstrapcdn.com
-  # - DOMAIN,www.recaptcha.net
-  # - DOMAIN,www.turnkeylinux.org
+  # 静态资源
   - DOMAIN,cdn.jsdelivr.net
-  # - DOMAIN,cdn.sstatic.net
-  # 匹配域名后缀
-  # - DOMAIN-SUFFIX,apache.org
-  # - DOMAIN-SUFFIX,cloudflare.com
-  # - DOMAIN-SUFFIX,elastic.co
-  # - DOMAIN-SUFFIX,gstatic.com
-  # - DOMAIN-SUFFIX,loli.net
+  - DOMAIN,cdn.sstatic.net
+  - DOMAIN,stackpath.bootstrapcdn.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,loli.net
+
+  # 开源项目
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,openstack.org
+
+  # ChatGPT
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  # - DOMAIN-SUFFIX,stripe.com
+  # - DOMAIN-SUFFIX,stripe.network
+
   # 临时
-  # - DOMAIN,idc.wiki
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,hostevaluate.com
-  # - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,aiservices.tech
