@@ -18,4 +18,5 @@ payload:
   # 临时
   # - DOMAIN,idc.wiki
   - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,hostevaluate.com
   # - DOMAIN-SUFFIX,deepl.com
