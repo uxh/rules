@@ -24,7 +24,10 @@ payload:
 
   # 临时
   - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,assbbs.com
   - DOMAIN-SUFFIX,hostevaluate.com
+  - DOMAIN-SUFFIX,lowendtalk.com
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,nfdns.top
   - DOMAIN-SUFFIX,586678.xyz
   - DOMAIN-SUFFIX,nnr.moe
