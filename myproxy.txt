@@ -32,3 +32,5 @@ payload:
   - DOMAIN-SUFFIX,586678.xyz
   - DOMAIN-SUFFIX,nnr.moe
   - DOMIAN-SUFFIX,nekoneko.cloud
+  - DOMAIN-SUFFIX,wmsxwd-2.men
+  - DOMAIN-SUFFIX,reimu.work
