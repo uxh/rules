@@ -25,6 +25,7 @@ payload:
   # 临时
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,hostevaluate.com
-  - DOMAIN-SUFFIX,aiservices.tech
   - DOMAIN-SUFFIX,nfdns.top
-  
+  - DOMAIN-SUFFIX,586678.xyz
+  - DOMAIN-SUFFIX,nnr.moe
+  - DOMIAN-SUFFIX,nekoneko.cloud
