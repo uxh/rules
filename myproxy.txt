@@ -2,10 +2,10 @@ payload:
   # 静态资源
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.sstatic.net
-  - DOMAIN,stackpath.bootstrapcdn.com
+  - DOMAIN,smsactivate.s3.eu-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,loli.net
-  - DOMAIN,smsactivate.s3.eu-central-1.amazonaws.com
 
   # 开源项目
   - DOMAIN-SUFFIX,apache.org
