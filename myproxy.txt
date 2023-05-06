@@ -2,6 +2,7 @@ payload:
   # 静态资源
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.sstatic.net
+  - DOMAIN,download-keycdn.panic.com  #Transmit
   - DOMAIN,maxcdn.bootstrapcdn.com
   - DOMAIN,stackpath.bootstrapcdn.com
   - DOMAIN,smsactivate.s3.eu-central-1.amazonaws.com  #SMS-ACTIVATE.ORG
