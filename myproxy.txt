@@ -2,10 +2,11 @@ payload:
   # 静态资源
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.sstatic.net
-  - DOMAIN,smsactivate.s3.eu-central-1.amazonaws.com
-  - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN,maxcdn.bootstrapcdn.com
+  - DOMAIN,stackpath.bootstrapcdn.com
+  - DOMAIN,smsactivate.s3.eu-central-1.amazonaws.com  #SMS-ACTIVATE.ORG
   - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,loli.net
+  - DOMAIN-SUFFIX,loli.net  #SM.MS
 
   # 开源项目
   - DOMAIN-SUFFIX,apache.org
@@ -17,21 +18,23 @@ payload:
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
   # - DOMAIN-SUFFIX,stripe.com
   # - DOMAIN-SUFFIX,stripe.network
 
   # 临时
-  - DOMAIN-SUFFIX,hostloc.com
-  - DOMAIN-SUFFIX,assbbs.com
-  - DOMAIN-SUFFIX,hostevaluate.com
-  - DOMAIN-SUFFIX,lowendtalk.com
-  - DOMAIN-SUFFIX,nodeseek.com
-  - DOMAIN-SUFFIX,nfdns.top
-  - DOMAIN-SUFFIX,586678.xyz
-  - DOMAIN-SUFFIX,nnr.moe
-  - DOMAIN-SUFFIX,nekoneko.cloud
-  - DOMAIN-SUFFIX,wmsxwd-2.men
-  - DOMAIN-SUFFIX,reimu.work
+  - DOMAIN-SUFFIX,assbbs.com  #屌丝论坛
+  - DOMAIN-SUFFIX,hostevaluate.com  #HostEvaluate
+  - DOMAIN-SUFFIX,hostloc.com  #全球主机论坛
+  - DOMAIN-SUFFIX,lowendtalk.com  #LowEndTalk
+  - DOMAIN-SUFFIX,nodeseek.com  #NodeSeek
+
+  - DOMAIN-SUFFIX,586678.xyz  #猫猫头转发
+  - DOMAIN-SUFFIX,nfdns.top  #NETFLIX流媒体解锁
+  - DOMAIN-SUFFIX,nekoneko.cloud  #NNR转发
+  - DOMAIN-SUFFIX,nnr.moe  #NNR转发
+
+  - DOMAIN-SUFFIX,wmsxwd-2.men  #我们所向往的
+  - DOMAIN-SUFFIX,reimu.work  #灵梦空间
