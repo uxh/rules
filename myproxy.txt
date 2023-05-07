@@ -14,17 +14,6 @@ payload:
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,openstack.org
 
-  # ChatGPT
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net
-  - DOMAIN,openaiapi-site.azureedge.net
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
-  # - DOMAIN-SUFFIX,stripe.com
-  # - DOMAIN-SUFFIX,stripe.network
-
   # 临时
   - DOMAIN-SUFFIX,assbbs.com  #屌丝论坛
   - DOMAIN-SUFFIX,hostevaluate.com  #HostEvaluate
@@ -39,3 +28,4 @@ payload:
 
   - DOMAIN-SUFFIX,wmsxwd-2.men  #我们所向往的
   - DOMAIN-SUFFIX,reimu.work  #灵梦空间
+  
