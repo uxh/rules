@@ -11,6 +11,7 @@ payload:
 
   # 开源项目
   - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,openstack.org
 
