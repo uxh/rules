@@ -16,6 +16,8 @@ payload:
   - DOMAIN-SUFFIX,openstack.org
 
   # 临时
+  - DOMAIN-SUFFIX,atlassian.com
+
   - DOMAIN-SUFFIX,assbbs.com  #屌丝论坛
   - DOMAIN-SUFFIX,hostevaluate.com  #HostEvaluate
   - DOMAIN-SUFFIX,hostloc.com  #全球主机论坛
@@ -29,4 +31,3 @@ payload:
 
   - DOMAIN-SUFFIX,wmsxwd-2.men  #我们所向往的
   - DOMAIN-SUFFIX,reimu.work  #灵梦空间
-  
