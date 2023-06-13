@@ -24,7 +24,7 @@ payload:
   - DOMAIN-SUFFIX,lowendtalk.com  #LowEndTalk
   - DOMAIN-SUFFIX,nodeseek.com  #NodeSeek
 
-  - DOMAIN-SUFFIX,586678.xyz  #猫猫头转发
+  - DOMAIN-SUFFIX,898868.xyz  #猫猫头转发
   - DOMAIN-SUFFIX,nfdns.top  #NETFLIX流媒体解锁
   - DOMAIN-SUFFIX,nekoneko.cloud  #NNR转发
   - DOMAIN-SUFFIX,nnr.moe  #NNR转发
