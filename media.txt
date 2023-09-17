@@ -130,7 +130,6 @@ payload:
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net
   ## > BBC
-  - USER-AGENT,BBCiPlayer*
   - DOMAIN-SUFFIX,bbc
   - DOMAIN-SUFFIX,bbc.co
   - DOMAIN-SUFFIX,bbc.co.uk
@@ -218,7 +217,6 @@ payload:
   - DOMAIN-SUFFIX,cbsradio.com
   ## >> Paramount
   - PROCESS-NAME,com.cbs.app
-  - USER-AGENT,PPlus*
   - DOMAIN-SUFFIX,amlg.io
   - DOMAIN-SUFFIX,cbsaavideo.com
   - DOMAIN-SUFFIX,cbsi.com
@@ -257,7 +255,6 @@ payload:
   - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,dmxleo.com
   ## > DAZN
-  - USER-AGENT,DAZN*
   - DOMAIN-SUFFIX,control.kochava.com
   - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
   - DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
@@ -285,8 +282,6 @@ payload:
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
   ## > Discovery Plus
-  - USER-AGENT,discovery+*
-  - USER-AGENT,DPlus*
   - DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
   - DOMAIN-SUFFIX,disco-api.com
   - DOMAIN-SUFFIX,discovery.com
@@ -761,8 +756,6 @@ payload:
   - DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
   ## > HBO GO HKG & HBO MAX
   - PROCESS-NAME,com.hbo.hbonow
-  - USER-AGENT,HBO%20NOW*
-  - USER-AGENT,HBOMAX*
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,forthethrone.com
   - DOMAIN-SUFFIX,hbo.com
@@ -935,8 +928,6 @@ payload:
   - DOMAIN-KEYWORD,japonx
   - DOMAIN-KEYWORD,japronx
   ## > JOOX
-  - USER-AGENT,WeMusic*
-  - USER-AGENT,JOOX*
   - PROCESS-NAME,com.tencent.ibg.joox
   - DOMAIN-SUFFIX,joox.com
   - DOMAIN-KEYWORD,jooxweb-api
@@ -973,7 +964,6 @@ payload:
   - DOMAIN-SUFFIX,litv.tv
   - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
   ## > LineTV
-  - USER-AGENT,LINE%20TV*
   - PROCESS-NAME,com.linecorp.linetv
   - DOMAIN-SUFFIX,chocotv.com.tw
   - DOMAIN-SUFFIX,line-cdn.net
@@ -994,7 +984,6 @@ payload:
   - DOMAIN-SUFFIX,my5.tv
   - DOMAIN,d349g9zuie06uo.cloudfront.net
   ## > Naver TV
-  - USER-AGENT,Naver%20TV*
   - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,smartmediarep.com
   ## > NBC
@@ -1031,7 +1020,6 @@ payload:
   - DOMAIN-SUFFIX,universalkids.com
   ## > Netflix
   - PROCESS-NAME,com.netflix.mediaclient
-  - USER-AGENT,Argo*
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,flxvpn.net
   - DOMAIN-SUFFIX,netflix.ca
@@ -1642,7 +1630,6 @@ payload:
   - DOMAIN-SUFFIX,soundcloud.com
   ## > Spotify
   - PROCESS-NAME,com.spotify.music
-  - USER-AGENT,Spotify*
   - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
@@ -1665,13 +1652,11 @@ payload:
   - DOMAIN-SUFFIX,skyking.com.tw
   - DOMAIN,hamifans.emome.net
   ## > TIDAL
-  - USER-AGENT,TIDAL*dia
   - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,wimpmusic.com
   ## > TikTok
-  - USER-AGENT,TikTok*
   - PROCESS-NAME,com.zhiliaoapp.musically
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
@@ -1709,12 +1694,10 @@ payload:
   - DOMAIN,edge.api.brightcove.com
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   ## >> MyTV SUPER
-  - USER-AGENT,mytv*
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
   - DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
   ## > TVER
-  - USER-AGENT,TVer-Release*
   - DOMAIN-SUFFIX,dogatch.jp
   - DOMAIN-SUFFIX,edge.api.brightcove.com
   - DOMAIN-SUFFIX,gorin.jp
