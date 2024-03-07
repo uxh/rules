@@ -28,6 +28,3 @@ payload:
   - DOMAIN-SUFFIX,nfdns.top  #NETFLIX流媒体解锁
   - DOMAIN-SUFFIX,nnc.sh  #NNC云
   - DOMAIN-SUFFIX,nnr.moe  #NNR转发
-
-  - DOMAIN-SUFFIX,wmsxwd-2.men  #我们所向往的
-  - DOMAIN-SUFFIX,reimu.work  #灵梦空间
