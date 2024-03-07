@@ -2,6 +2,7 @@ payload:
   # From: https://help.dropbox.com/zh-cn/security/official-domains
   - DOMAIN-SUFFIX,addtodropbox.com
   - DOMAIN-SUFFIX,app.hellosign.com
+  - DOMAIN-SUFFIX,dash.ai
   - DOMAIN-SUFFIX,db.tt
   - DOMAIN-SUFFIX,docsend.com
   - DOMAIN-SUFFIX,dropbox.com
