@@ -26,4 +26,4 @@ payload:
 
   - DOMAIN-SUFFIX,nnr.moe  #NNR转发
 
-  - DONAIN-SUFFIX,bestvm.cloud  #BestVM
+  - DOMAIN-SUFFIX,bestvm.cloud  #BestVM
