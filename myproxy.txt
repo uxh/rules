@@ -25,3 +25,5 @@ payload:
   - DOMAIN-SUFFIX,nodeseek.com  #NodeSeek
 
   - DOMAIN-SUFFIX,nnr.moe  #NNR转发
+
+  - DONAIN-SUFFIX,bestvm.cloud  #BestVM
