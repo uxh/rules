@@ -7,6 +7,7 @@ payload:
   - DOMAIN,stackpath.bootstrapcdn.com
   - DOMAIN,smsactivate.s3.eu-central-1.amazonaws.com  #SMS-ACTIVATE.ORG
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,loli.net  #SM.MS
 
   # 开源项目
