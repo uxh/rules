@@ -18,6 +18,8 @@ payload:
 
   # 临时
   - DOMAIN-SUFFIX,atlassian.com
+  - DOMAIN-SUFFIX,figma.com
+  - DOMAIN-SUFFIX,axshare.com
 
   - DOMAIN-SUFFIX,assbbs.com  #屌丝论坛
   - DOMAIN-SUFFIX,hostevaluate.com  #HostEvaluate
