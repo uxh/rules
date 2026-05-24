@@ -1,8 +1,8 @@
 payload:
+  # ChatGPT
   # From: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/OpenAI/OpenAI.yaml
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
-  - DOMAIN,gemini.google.com
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
@@ -36,3 +36,28 @@ payload:
   - IP-CIDR,24.199.123.28/32
   - IP-CIDR,64.23.132.171/32
   # - IP-ASN,20473
+  # Claude
+  # From: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Anthropic/Anthropic.yaml
+  # From: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Claude/Claude.yaml
+  - DOMAIN,servd-anthropic-website.b-cdn.net
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,anthropic
+  # Gemini
+  # From: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Gemini/Gemini.yaml
+  - DOMAIN,ai.google.dev
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-KEYWORD,generativelanguage
