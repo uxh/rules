@@ -26,6 +26,8 @@ payload:
   - DOMAIN-SUFFIX,hostloc.com  #全球主机论坛
   - DOMAIN-SUFFIX,lowendtalk.com  #LowEndTalk
   - DOMAIN-SUFFIX,nodeseek.com  #NodeSeek
+  - DOMAIN-SUFFIX,ldstatic.com  #LINUX DO
+  - DOMAIN-SUFFIX,linux.do  #LINUX DO
 
   - DOMAIN-SUFFIX,nnr.moe  #NNR转发
 
