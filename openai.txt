@@ -1,6 +1,7 @@
 payload:
   # ChatGPT
   # From: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/OpenAI/OpenAI.yaml
+  - PROCESS-NAME,codex.exe
   - PROCESS-NAME,ChatGPT.exe
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
@@ -40,7 +41,7 @@ payload:
   # Claude
   # From: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Anthropic/Anthropic.yaml
   # From: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Claude/Claude.yaml
-  - PROCESS-NAME,Claude.exe
+  - PROCESS-NAME,claude.exe
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,claude.ai
