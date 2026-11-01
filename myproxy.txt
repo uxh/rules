@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,nnr.moe  #NNR转发
 
   - DOMAIN-SUFFIX,bestvm.cloud  #BestVM
+  - DOMAIN-SUFFIX,mhyidc.com  #Hoyoverse
